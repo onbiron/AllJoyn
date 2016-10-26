@@ -1,3 +1,3 @@
-# Samples and Prebuilt libs for AllJoyn Open Source Project
+# Samples and Prebuilt libraries for the AllJoyn Open Source Project
 
-* AllJoyn Android 16.04 libraries ->  alljoyn/v16.04/android/
+* [AllJoyn Android 16.04 libraries](./alljoyn/v16.04/android/)
