@@ -29,4 +29,4 @@ alljoyn/
 This directory contains debug build AllJoyn 16.04 jar and so libs for Android development. The source code are also included to provide easy debugging on AllJoyn enabled Android Apps.
 
 * AllJoyn Dashboard-16.04 APK 
-This is the authentication fixed of AllJoyn open source Dashboard App. Dashboard-16.04 APK is modified version that supports [Alljoyn Security 2.0](https://allseenalliance.org/framework/documentation/learn/core/security2_0) authentication. 
+This is the modified version of the AllJoyn open source Dashboard Application. Dashboard-16.04 APK supports [Alljoyn Security 2.0](https://allseenalliance.org/framework/documentation/learn/core/security2_0) authentication with ECDHE. 
