@@ -1,7 +1,8 @@
-# Samples and Prebuilt libraries for the AllJoyn Open Source Project
+## Samples and Prebuilt libraries for the AllJoyn Open Source Project
 
 	
-```alljoyn/
+```bash
+alljoyn/
 ├── Dashboard_Aj_16.04.apk
 └── v16.04
     └── android
@@ -18,10 +19,11 @@
         │   ├── alljoyn_onboarding.jar
         │   ├── alljoyn_onboarding_manager.jar
         │   └── alljoyn_test.jar
-        └── lib
-            └── liballjoyn_java.so
-    ```
+        └── lib
+            └── liballjoyn_java.s	    
  
+
+``` 
 ##Content 
 * [AllJoyn Android 16.04 libraries](./alljoyn/v16.04/android/)
 This directory contains debug build AllJoyn 16.04 jar and so libs for Android development. The source code are also included to provide easy debugging on AllJoyn enabled Android Apps.
