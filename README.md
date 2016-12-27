@@ -1,7 +1,7 @@
 ## Samples and Prebuilt libraries for the AllJoyn Open Source Project
 
 	
-```bash
+```sh
 alljoyn/
 ├── Dashboard_Aj_16.04.apk
 └── v16.04
@@ -20,7 +20,7 @@ alljoyn/
         │   ├── alljoyn_onboarding_manager.jar
         │   └── alljoyn_test.jar
         └── lib
-            └── liballjoyn_java.s	    
+            └── liballjoyn_java.so	    
  
 
 ``` 
