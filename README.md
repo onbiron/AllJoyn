@@ -1,5 +1,7 @@
-## Samples and Prebuilt libraries for the AllJoyn Open Source Project
+### Samples and Prebuild libraries for the AllJoyn Open Source Project
 
+
+### Directory List
 	
 ```sh
 alljoyn/
