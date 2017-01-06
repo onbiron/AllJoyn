@@ -4,25 +4,46 @@
 ### Directory List
 	
 ```sh
-alljoyn/
+.
 ├── Dashboard_Aj_16.04.apk
 └── v16.04
-    └── android
-        ├── jar
-        │   ├── ControlPanelAdapter.jar
-        │   ├── ControlPanelService.jar
-        │   ├── NSCommons.jar
-        │   ├── NSNativePlatformAndr.jar
-        │   ├── NotificationService.jar
-        │   ├── alljoyn-sources.jar
-        │   ├── alljoyn.jar
-        │   ├── alljoyn_about.jar
-        │   ├── alljoyn_config.jar
-        │   ├── alljoyn_onboarding.jar
-        │   ├── alljoyn_onboarding_manager.jar
-        │   └── alljoyn_test.jar
-        └── lib
-            └── liballjoyn_java.so	    
+    ├── debug
+    │   └── android
+    │       ├── jar
+    │       │   ├── ControlPanelAdapter.jar
+    │       │   ├── ControlPanelService.jar
+    │       │   ├── NSCommons.jar
+    │       │   ├── NSNativePlatformAndr.jar
+    │       │   ├── NotificationService.jar
+    │       │   ├── alljoyn-sources.jar
+    │       │   ├── alljoyn.jar
+    │       │   ├── alljoyn_about.jar
+    │       │   ├── alljoyn_config.jar
+    │       │   ├── alljoyn_onboarding.jar
+    │       │   ├── alljoyn_onboarding_manager.jar
+    │       │   └── alljoyn_test.jar
+    │       └── lib
+    │           └── liballjoyn_java.so
+    └── release
+        └── android
+            ├── jar
+            │   ├── ControlPanelAdapter.jar
+            │   ├── ControlPanelService.jar
+            │   ├── ControlPanelService_src.jar
+            │   ├── NSCommons.jar
+            │   ├── NSNativePlatformAndr.jar
+            │   ├── NotificationService.jar
+            │   ├── alljoyn.jar
+            │   ├── alljoyn_about.jar
+            │   ├── alljoyn_apps_android_utils.jar
+            │   ├── alljoyn_config.jar
+            │   ├── alljoyn_onboarding.jar
+            │   ├── alljoyn_onboarding_manager.jar
+            │   └── alljoyn_test.jar
+            └── lib
+                └── liballjoyn_java.so
+
+
  
 
 ``` 
